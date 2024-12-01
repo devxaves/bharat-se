@@ -61,24 +61,19 @@ A blockchain-powered platform that:
 - 75%+ Indians prefer original products during festivals
 
 ## 🔧 Tech Stack
+![IBMCloud_Cover](https://blogger.googleusercontent.com/img/a/AVvXsEjvXucuiLZvtAryP2hHo_uuFtqIa1GhPXnRDEOmpHiOvHS2HA9hOSIsHKDYQyaPPs230oam5xhrAvImwjsqhwtLjviB2bPCiHEOjrfifsxC2HKueR0tIc_UuYp1Obo3vdC0frwjYbp0PXnYUGjHkA0qO2DgGbHL_FSD3tMYDm78IvUeEYVIXJmu47zN-eg)
 
 ### Frontend
 - React.js
 - Tailwind CSS
-- Web3 Integration
+- IBM Watson Studio
 
 ### Backend
-- Express.js
-- MongoDB
-- Node.js
-- Redux
-- Gemini API
-
+- IBM Cloud Kubernetes Service
+- IBM Watsonx
+- IBM Watson Studio
 ### Blockchain
-- Polygon Network
-- Solidity Smart Contracts
-- MetaMask Integration
-- IPFS Pinata
+- IBM Blockchain
 
 
 ## 💡 Unique Selling Proposition (USP)
