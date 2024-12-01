@@ -7,7 +7,7 @@
 
 > 🚀 **Live Now!** Check out our platform at [https://bharatse.vercel.app](https://bharatse.vercel.app)
 
-![BharatSe Cover](https://github.com/devxaves/BharatSe/blob/main/BharatSeCover.png)
+![BharatSe Cover](https://github.com/devxaves/bharat-se/blob/main/BharatSeCover.png)
 
 
 
