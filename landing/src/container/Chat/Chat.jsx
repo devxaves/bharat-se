@@ -34,7 +34,7 @@ function Chat() {
     setAnswer("Loading your Personalized Answer...");
     try {
       const response = await axios({
-        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAfH8ay-86RjWqG4YC1dNGPNJntyC5_jHk`,
+        url: `https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyBPnMLT_3AOTAsZNVtbHv2nE1TOD62aLtk`,
         method: "post",
         data: {
           contents: [{ parts: [{ text: "You are Bharati, an AI Assistant for our ecommerce marketplace named BharatSe. talk as a friend and also as a customer support executive. We are a platform that sells various Indian ethnic and heritage products across the world. We specialize in Clothings, food etc. You must answer signifying and promoting the various traditional items of India. Answer politely and Use Emojis but answer short and crisp manner. Also don't answer any questions unrelated to the shopping or our e commerce platform. Politely reject the answer for any other questions" + question }] }],
